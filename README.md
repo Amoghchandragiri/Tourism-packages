@@ -6,11 +6,12 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 https://hacktoberfest.digitalocean.com/
 ```
 ## Project Description
-Explore our wide range of indoor and outdoor sports activities and you can select your preferred choice of sports activities whose description is given in the upcoming pages. A feedback form has been created to get an idea about how the customers perceive our Sports center and to address their issues.
+I have created a travel and tourism website using HTML and CSS which will display travel packages to various destinations with all the details. Customer will be able to
+enter his details and the preferred destination. 
 I am open to any changes made in my project and would like to invite all of you to collaborate with me and introduce some cool changes which would make the website make more responsive and dynamic in nature. You can clone this repository on github by following the below command:-
 
 ```
-git clone https://github.com/Amoghchandragiri/Elite-Sports-Center.git
+https://github.com/Amoghchandragiri/Tourism-packages.git
 ```
 
 - Create a branch
