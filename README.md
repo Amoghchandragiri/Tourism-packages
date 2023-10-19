@@ -34,7 +34,7 @@ git push origin <your_branch_name>
 Project has been deployed using Github pages by following link:- 
 
 ```
- https://amoghchandragiri.github.io/Elite-Sports-Center/
+ https://amoghchandragiri.github.io/Tourism-packages/
 ```
 
 
